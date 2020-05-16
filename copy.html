@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Home</title>
+    <script src="js.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+    <div class="header">
+        <div class="title">
+            <h1><a href="index.php">Titolo</a>(porta alla home)</h1>
+        </div>
+        <div class="formLingua">
+            <form action="index.php">
+                <span style="color: white;">Seleziona lingua</span>
+                <select name="lingua">
+                    <option value="italiano">italiano</option>
+                    <option value="english">english</option>
+                </select>
+            </form>
+        </div>
+    </div>
+	
+    <script>
+    	$(document).ready(function(){
+        	getLocation()
+        })
+    </script>
+
+    <div class="mainBox">
+        <div class='mainText'>Per usurfruire del sito  effettuare il login con il codice del biglietto</div>        <a  class='mainButton'  href='login.php'>Login</a>    </div>
+    </body>
+</html>
