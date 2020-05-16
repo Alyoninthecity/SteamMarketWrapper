@@ -1,8 +1,5 @@
-<?php $url = "https://sitoscuolamagnifica.altervista.org/TPSIT/index.php";
-$page = file_get_contents($url);
-$outfile = "copy.html";
-file_put_contents($outfile, $page);
-var_dump($page);
+<?php
+
 /**
  * $url="https://steamcommunity.com/market/search?appid=252490";
  * div#id="searchResultsRows"->foreach(a.class="market_listing_row_link"){href}
@@ -16,3 +13,8 @@ var_dump($page);
  * tabella prezzi vendita : div#id="market_commodity_forsale_table" -> table.class="market_commodity_orders_table"
  * tabella prezzi ordini : div#id="market_commodity_buyreqeusts_table" -> table.class="market_commodity_orders_table"
  */
+
+require_once("./simplehtmldom_1_9_1/simple_html_dom.php");
+$html = file_get_html('https://steamcommunity.com/market/search?appid=252490');
+foreach ($html->find('img') as $element)
+    echo $element->style . '<br>';
