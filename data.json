@@ -1,0 +1,362 @@
+[
+    {
+        "Item": {
+            "name": "Blackout Hoodie",
+            "sell_price": "1,98\\u20ac",
+            "N_sell": "234",
+            "order_price": "1,54\\u20ac",
+            "N_orders": "828",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ4WLGfDY0jhyo8DEiv5dQOa0_rLY3QP64R1WwDA/360fx360f",
+            "percGuad": 11.81857142857142,
+            "guadagno": 0.1820059999999999
+        }
+    },
+    {
+        "Item": {
+            "name": "Blackout Pants",
+            "sell_price": "2,18\\u20ac",
+            "N_sell": "187",
+            "order_price": "1,72\\u20ac",
+            "N_orders": "855",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ4WLHfDY0jhyo8DEiv5dYO6o3qrQwRPm5HKmgkrI/360fx360f",
+            "percGuad": 10.229418604651173,
+            "guadagno": 0.17594600000000016
+        }
+    },
+    {
+        "Item": {
+            "name": "Metal",
+            "sell_price": "0,66\\u20ac",
+            "N_sell": "1457",
+            "order_price": "0,61\\u20ac",
+            "N_orders": "6539",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ja5WrHfDY0jhyo8DEiv5daMKo9r70yQPy6znmQNBM/360fx360f",
+            "percGuad": -5.901311475409832,
+            "guadagno": -0.035997999999999974
+        }
+    },
+    {
+        "Item": {
+            "name": "Green Beenie Hat",
+            "sell_price": "0,07\\u20ac",
+            "N_sell": "2879",
+            "order_price": "0,06\\u20ac",
+            "N_orders": "31891",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5GPCfDY0jhyo8DEiv5dbOqk2r7A3RP-42GLMHho/360fx360f",
+            "percGuad": 1.4650000000000079,
+            "guadagno": 0.0008790000000000048
+        }
+    },
+    {
+        "Item": {
+            "name": "High Quality Crate",
+            "sell_price": "1,26\\u20ac",
+            "N_sell": "767",
+            "order_price": "1,22\\u20ac",
+            "N_orders": "1474",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ja5WrCfDY0jhyo8DEiv5daOaE5qbQ_RPm5dPBNsa8/360fx360f",
+            "percGuad": -10.178524590163926,
+            "guadagno": -0.1241779999999999
+        }
+    },
+    {
+        "Item": {
+            "name": "Cargo Heli Locker",
+            "sell_price": "2,80\\u20ac",
+            "N_sell": "202",
+            "order_price": "2,32\\u20ac",
+            "N_orders": "297",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ5mLEfDY0jhyo8DEiv5dYP6g_r7w2RPm5LTRnCYE/360fx360f",
+            "percGuad": 4.963793103448273,
+            "guadagno": 0.11515999999999993
+        }
+    },
+    {
+        "Item": {
+            "name": "Wood",
+            "sell_price": "0,10\\u20ac",
+            "N_sell": "12805",
+            "order_price": "0,08\\u20ac",
+            "N_orders": "85459",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ja5WrGfDY0jhyo8DEiv5daMas9pL0_Q_-4dB9CJ7M/360fx360f",
+            "percGuad": 8.712500000000006,
+            "guadagno": 0.006970000000000004
+        }
+    },
+    {
+        "Item": {
+            "name": "Cow Moo Flage Pants",
+            "sell_price": "5,33\\u20ac",
+            "N_sell": "84",
+            "order_price": "4,25\\u20ac",
+            "N_orders": "613",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ52LEfDY0jhyo8DEiv5dbMK49r7IxQv673sQbwrY/360fx360f",
+            "percGuad": 9.070611764705875,
+            "guadagno": 0.38550099999999965
+        }
+    },
+    {
+        "Item": {
+            "name": "Cow Moo Flage Hoodie",
+            "sell_price": "5,32\\u20ac",
+            "N_sell": "70",
+            "order_price": "3,95\\u20ac",
+            "N_orders": "596",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ52LFfDY0jhyo8DEiv5ddO686rLIyRvi-tfl4kQg/360fx360f",
+            "percGuad": 17.13427848101265,
+            "guadagno": 0.6768039999999997
+        }
+    },
+    {
+        "Item": {
+            "name": "Cow Moo Flage Boots",
+            "sell_price": "1,43\\u20ac",
+            "N_sell": "148",
+            "order_price": "1,--\\u20ac",
+            "N_orders": "736",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ4GLBfDY0jhyo8DEiv5dYMKE9r70xR_64mITLiqU/360fx360f",
+            "percGuad": 24.367099999999997,
+            "guadagno": 0.24367099999999997
+        }
+    },
+    {
+        "Item": {
+            "name": "Monument Memories AR",
+            "sell_price": "2,01\\u20ac",
+            "N_sell": "40",
+            "order_price": "1,47\\u20ac",
+            "N_orders": "321",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ4WLBfDY0jhyo8DEiv5dYPK0_qrw-Qvu3RwpzHsQ/360fx360f",
+            "percGuad": 18.91816326530611,
+            "guadagno": 0.2780969999999998
+        }
+    },
+    {
+        "Item": {
+            "name": "Doodle Kilt",
+            "sell_price": "2,87\\u20ac",
+            "N_sell": "31",
+            "order_price": "2,32\\u20ac",
+            "N_orders": "508",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY5mLHfDY0jhyo8DEiv5dYPqA_pL03SPy-kRX4lqI/360fx360f",
+            "percGuad": 7.587887931034495,
+            "guadagno": 0.17603900000000028
+        }
+    },
+    {
+        "Item": {
+            "name": "Training SAR",
+            "sell_price": "2,24\\u20ac",
+            "N_sell": "121",
+            "order_price": "1,85\\u20ac",
+            "N_orders": "437",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ4GLHfDY0jhyo8DEiv5ddPaA7rLw0Rvm1o1nq5A/360fx360f",
+            "percGuad": 5.304216216216216,
+            "guadagno": 0.09812799999999999
+        }
+    },
+    {
+        "Item": {
+            "name": "Training AR",
+            "sell_price": "2,41\\u20ac",
+            "N_sell": "141",
+            "order_price": "1,95\\u20ac",
+            "N_orders": "488",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY4WLFfDY0jhyo8DEiv5dYOKE9rrA-QvC8JApgFO4/360fx360f",
+            "percGuad": 7.486000000000001,
+            "guadagno": 0.14597700000000002
+        }
+    },
+    {
+        "Item": {
+            "name": "Cloth",
+            "sell_price": "0,07\\u20ac",
+            "N_sell": "18486",
+            "order_price": "0,06\\u20ac",
+            "N_orders": "109558",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5GHEfDY0jhyo8DEiv5dYMKA5pLYzRv66k4J0KhI/360fx360f",
+            "percGuad": 1.4650000000000079,
+            "guadagno": 0.0008790000000000048
+        }
+    },
+    {
+        "Item": {
+            "name": "Cutesy LR300",
+            "sell_price": "2,80\\u20ac",
+            "N_sell": "94",
+            "order_price": "2,32\\u20ac",
+            "N_orders": "435",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Bd42LMfDY0jhyo8DEiv5dYPqo9pbQ_Q_6-w4kpmu8/360fx360f",
+            "percGuad": 4.963793103448273,
+            "guadagno": 0.11515999999999993
+        }
+    },
+    {
+        "Item": {
+            "name": "Flyboy SMG",
+            "sell_price": "2,70\\u20ac",
+            "N_sell": "51",
+            "order_price": "2,39\\u20ac",
+            "N_orders": "279",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Bd7WLHfDY0jhyo8DEiv5dbP6g5qbQ1Sfm210I7q9w/360fx360f",
+            "percGuad": -1.7493723849372342,
+            "guadagno": -0.0418099999999999
+        }
+    },
+    {
+        "Item": {
+            "name": "Rainbow Pony Crossbow",
+            "sell_price": "2,69\\u20ac",
+            "N_sell": "185",
+            "order_price": "2,26\\u20ac",
+            "N_orders": "572",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY7WLEfDY0jhyo8DEiv5dYOqw7r7cxSfC3OOpS7Q/360fx360f",
+            "percGuad": 3.517389380530985,
+            "guadagno": 0.07949300000000026
+        }
+    },
+    {
+        "Item": {
+            "name": "Cow Moo Flage Gloves",
+            "sell_price": "1,81\\u20ac",
+            "N_sell": "124",
+            "order_price": "1,35\\u20ac",
+            "N_orders": "527",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ4GLAfDY0jhyo8DEiv5dbPa07r7Y1Rf24Ca58ha0/360fx360f",
+            "percGuad": 16.604222222222216,
+            "guadagno": 0.22415699999999994
+        }
+    },
+    {
+        "Item": {
+            "name": "Guardians of the Heart",
+            "sell_price": "1,51\\u20ac",
+            "N_sell": "84",
+            "order_price": "1,31\\u20ac",
+            "N_orders": "366",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY52PEfDY0jhyo8DEiv5dYPKw2pbw1R_-5l3U5wu8/360fx360f",
+            "percGuad": 0.24786259541984731,
+            "guadagno": 0.003247
+        }
+    },
+    {
+        "Item": {
+            "name": "Teddy Bear Rug",
+            "sell_price": "1,80\\u20ac",
+            "N_sell": "138",
+            "order_price": "1,39\\u20ac",
+            "N_orders": "2109",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY7GLFfDY0jhyo8DEiv5dbOa02qbc3RPq_LdMo2lo/360fx360f",
+            "percGuad": 12.623021582733825,
+            "guadagno": 0.17546000000000017
+        }
+    },
+    {
+        "Item": {
+            "name": "XPOINT Ammo",
+            "sell_price": "1,73\\u20ac",
+            "N_sell": "84",
+            "order_price": "1,39\\u20ac",
+            "N_orders": "330",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY7GLCfDY0jhyo8DEiv5dYO6A_rLM2Rvi5vRfV2jE/360fx360f",
+            "percGuad": 8.243237410071947,
+            "guadagno": 0.11458100000000004
+        }
+    },
+    {
+        "Item": {
+            "name": "Black Boots",
+            "sell_price": "0,29\\u20ac",
+            "N_sell": "229",
+            "order_price": "0,28\\u20ac",
+            "N_orders": "5184",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5GDGfDY0jhyo8DEiv5daPq8-rLA0QP2uNHuhYg/360fx360f",
+            "percGuad": -9.923928571428592,
+            "guadagno": -0.02778700000000006
+        }
+    },
+    {
+        "Item": {
+            "name": "Venomous Shot",
+            "sell_price": "1,31\\u20ac",
+            "N_sell": "83",
+            "order_price": "1,09\\u20ac",
+            "N_orders": "243",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BZ5mLFfDY0jhyo8DEiv5ddOa82pbM3Rv-2h8k60sQ/360fx360f",
+            "percGuad": 4.523577981651375,
+            "guadagno": 0.04930699999999999
+        }
+    },
+    {
+        "Item": {
+            "name": "Snowcamo Jacket",
+            "sell_price": "0,28\\u20ac",
+            "N_sell": "374",
+            "order_price": "0,21\\u20ac",
+            "N_orders": "5717",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5GLNfDY0jhyo8DEiv5dYOas-q7EzQ_u2vXhgR1E/360fx360f",
+            "percGuad": 15.96000000000001,
+            "guadagno": 0.03351600000000002
+        }
+    },
+    {
+        "Item": {
+            "name": "Black Hoodie",
+            "sell_price": "0,21\\u20ac",
+            "N_sell": "879",
+            "order_price": "0,17\\u20ac",
+            "N_orders": "6405",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ja5WXMfDY0jhyo8DEiv5daPqk5q7IxRv2_72B5cSQ/360fx360f",
+            "percGuad": 7.433529411764694,
+            "guadagno": 0.012636999999999982
+        }
+    },
+    {
+        "Item": {
+            "name": "Bad Santa Satchel",
+            "sell_price": "0,97\\u20ac",
+            "N_sell": "132",
+            "order_price": "0,78\\u20ac",
+            "N_orders": "328",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Bb42LCfDY0jhyo8DEiv5dbP60-qL0zRPC9TO2p4TM/360fx360f",
+            "percGuad": 8.154999999999989,
+            "guadagno": 0.06360899999999992
+        }
+    },
+    {
+        "Item": {
+            "name": "Ammo Wooden Box",
+            "sell_price": "0,09\\u20ac",
+            "N_sell": "856",
+            "order_price": "0,08\\u20ac",
+            "N_orders": "18756",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5WDBfDY0jhyo8DEiv5ddPqA_rbQ2R_9duBQRAA/360fx360f",
+            "percGuad": -2.158750000000008,
+            "guadagno": -0.0017270000000000063
+        }
+    },
+    {
+        "Item": {
+            "name": "Forest Camo Pants",
+            "sell_price": "0,08\\u20ac",
+            "N_sell": "1819",
+            "order_price": "0,06\\u20ac",
+            "N_orders": "37563",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5GPMfDY0jhyo8DEiv5daMK84rrwwQ_m6FKr3nTA/360fx360f",
+            "percGuad": 15.960000000000003,
+            "guadagno": 0.009576000000000001
+        }
+    },
+    {
+        "Item": {
+            "name": "Low Quality Bag",
+            "sell_price": "0,70\\u20ac",
+            "N_sell": "426",
+            "order_price": "0,59\\u20ac",
+            "N_orders": "2094",
+            "URLImg": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ja5WrBfDY0jhyo8DEiv5dYO607qbY-Rvq97YZUOmg/360fx360f",
+            "percGuad": 3.1847457627118603,
+            "guadagno": 0.018789999999999973
+        }
+    }
+]
