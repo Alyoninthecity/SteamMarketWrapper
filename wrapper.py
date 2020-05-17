@@ -26,6 +26,7 @@ auth.send_keys(codiceAuthI)
 driver.find_element(
     By.XPATH, '//*[@id="login_twofactorauth_buttonset_entercode"]/div[1]/div[1]').click()
 tableResult = []
+time.sleep(3)
 # print(//*[@id="searchResults_links"]/span[7])
 for i in range(1, 3):
     print("primo")
@@ -35,6 +36,7 @@ for i in range(1, 3):
     time.sleep(1)
     linkP = driver.find_elements_by_class_name("market_listing_row_link")
     arraylink = [x.get_attribute("href") for x in linkP]
+    time.sleep(1)
     for link in arraylink:
         print("secondo")
         driver.get(link)
