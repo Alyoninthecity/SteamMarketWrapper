@@ -30,7 +30,7 @@ time.sleep(3)
 # print(//*[@id="searchResults_links"]/span[7])
 for i in range(1, 3):
     print("primo")
-    time.sleep(1)
+    time.sleep(2)
     driver.get("https://steamcommunity.com/market/search?appid=252490" +
                "#p"+str(i)+"_popular_desc")
     time.sleep(1)
@@ -42,7 +42,7 @@ for i in range(1, 3):
         driver.get(link)
         tableResult.append([])
         tableResult[-1].append(driver.find_element_by_id("largeiteminfo_item_name").text)
-        time.sleep(1)
+        time.sleep(2)
         tableResult[-1].append(driver.find_element_by_xpath(
             '//*[@id="market_commodity_forsale"]/span[2]').text)
         tableResult[-1].append(driver.find_element_by_xpath(
