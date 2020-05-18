@@ -8,29 +8,7 @@ from array import *
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-
-
-class Item:
-    def __init__(self, name, sell_price, N_sell, order_price, N_orders, URLImg, percGuad, guadagno):
-        self.name = name  # nome
-        self.order_price = order_price
-        self.N_sell = N_sell
-        self.N_orders = N_orders
-        self.sell_price = sell_price  # prezzo piu` basso
-        self.URLImg = URLImg  # URL immagine
-        self.guadagno = guadagno
-        self.percGuad = percGuad
-
-    def __str__(self):
-        return "nome: " + self.name + " N. pezzi in vendita: " + self.sell_listings + " Prezzo piu` basso:  " + + " URL immagine" + self.URLImg
-
-    def dump(self):
-        return {
-            "Item": {
-                'name': self.name, 'sell_price': self.sell_price, 'N_sell': self.N_sell, 'order_price': self.order_price, 'N_orders': self.N_orders, 'URLImg': self.URLImg, 'percGuad': self.percGuad, 'guadagno': self.guadagno
-            }
-        }
-
+from item import Item
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
@@ -53,7 +31,7 @@ driver.find_element(
 tableResult = []
 time.sleep(1)
 # print(//*[@id="searchResults_links"]/span[7])
-for i in range(1, 4):
+for i in range(1, 217):
     print("primo")
     time.sleep(1)
     driver.get("https://steamcommunity.com/market/search?appid=252490" +
@@ -63,11 +41,20 @@ for i in range(1, 4):
         myElem = WebDriverWait(driver, delay).until(
             EC.presence_of_element_located((By.ID, 'result_0_image')))
         linkP = driver.find_elements_by_class_name("market_listing_row_link")
-        arraylink = [x.get_attribute("href") for x in linkP]
+        prezzo = driver.find_elements_by_css_selector(
+            'span.market_table_value.normal_price')
+        arraylink = []
+        for x in range(0, len(linkP)):
+            prezzo1 = float(
+                (prezzo[x].text[:-1].replace("Prezzo iniziale:\n", "").replace(",", ".").replace("-", "0")))
+            print(prezzo1)
+            if(prezzo1 > 0.60):
+                arraylink.append(linkP[x].get_attribute("href"))
+
         print("Page is ready!")
     except TimeoutException:
         print("Loading took too much time!")
-    
+
     for link in arraylink:
         print("secondo")
         driver.get(link)
@@ -109,6 +96,8 @@ with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(json.dumps([ob.dump() for ob in tableResult]),
               f, ensure_ascii=False, indent=4)
 driver.close()
+
+
 """
 ris = ""
 l = ""
