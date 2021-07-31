@@ -15,7 +15,7 @@ I didn't spend too much time on this project so it might contain bugs and errors
 (Required Python)
 Commands :
 ```
-python wrapper.py<br/>
+python wrapper.py
 ```
 Insert all the input via terminal<br/>
 Might print some test strings
