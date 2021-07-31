@@ -13,9 +13,10 @@ I didn't spend too much time on this project so it might contain bugs and errors
 
 ## How to run
 (Required Python)
-Command :
-- python wrapper.py<br/>
-
+Commands :
+```
+python wrapper.py<br/>
+```
 Insert all the input via terminal<br/>
 Might print some test strings
 
