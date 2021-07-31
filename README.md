@@ -18,3 +18,7 @@ Command :
 
 Insert all the input via terminal<br/>
 Might print some test strings
+
+# Author
+SteamMarketWrapper © Alyoninthecity.
+Authored and maintained by Alyoninthecity.
