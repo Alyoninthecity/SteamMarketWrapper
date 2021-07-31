@@ -17,4 +17,3 @@ Command :
 
 Insert all the input via terminal<br/>
 Might print some test strings
-## Output will be saved into data.json
