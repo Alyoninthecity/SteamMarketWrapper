@@ -17,7 +17,7 @@ Commands :
 ```
 python wrapper.py
 ```
-#### Insert all the input via terminal.<br/>
+#### Insert all the required input via terminal.<br/>
 #### Might print some debug lines.
 
 # Author
