@@ -15,5 +15,6 @@ Steam Skin Rust Market Wrapper, run the script and it will sign into a given ste
 Command :
 - python wrapper.py<br/>
 
-Insert all the input via terminal
+Insert all the input via terminal<br/>
+Might print some test strings
 ## Output will be saved into data.json
