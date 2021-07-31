@@ -17,8 +17,8 @@ Commands :
 ```
 python wrapper.py
 ```
-Insert all the input via terminal.<br/>
-Might print some test strings.
+#### Insert all the input via terminal.<br/>
+#### Might print some debug lines.
 
 # Author
 SteamMarketWrapper © Alyoninthecity.<br/>
