@@ -13,6 +13,7 @@ Steam Skin Rust Market Wrapper, run the script and it will sign into a given ste
 ## How to run
 (Required Python)
 Command :
-- python wrapper.py
+- python wrapper.py<br/>
 
+Insert all the input via terminal
 ## Output will be saved into data.json
