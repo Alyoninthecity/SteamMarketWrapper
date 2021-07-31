@@ -22,4 +22,3 @@ python wrapper.py
 
 # Author
 SteamMarketWrapper © Alyoninthecity.<br/>
-Authored and maintained by Alyoninthecity.
