@@ -1,6 +1,6 @@
 # SteamMarketWrapper (Might be outdated)
 Steam Skin Rust Market Wrapper, run the script and it will sign into a given steam account. The script will scan the entire Steam Skin Rust (game) Market, it will collect and save informations into a json :
-## Information Saved
+## Information Saved into data.json
 - Title of the skin
 - Link of the image
 - Selling price
